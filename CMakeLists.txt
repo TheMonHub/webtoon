@@ -3,7 +3,7 @@ project(webtoon
         VERSION 0
         COMPAT_VERSION 0
         SPDX_LICENSE Apache-2.0
-        DESCRIPTION "C library and command line reference implementation of a file format, .wef."
+        DESCRIPTION "C library and command line reference implementation of a file format, .wef"
         HOMEPAGE_URL "https://github.com/TheMonHub/webtoon"
         LANGUAGES C
 )
